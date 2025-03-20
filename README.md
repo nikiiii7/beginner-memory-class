@@ -4,10 +4,10 @@ Discord: z80w
 
 # Usage
 
-![image](https://github.com/user-attachments/assets/3ad352a0-95bd-4fd2-8256-4ab44268db9c)
+![image](https://github.com/user-attachments/assets/3588064d-7f15-4f8b-87d9-2fc48b710c82)
 
 auto mem = Memory("cs2.exe") (pass the process name to the "")
 
 # Example For a CS2 Health Display
 
-![fsdfsdfd](https://github.com/user-attachments/assets/b7a9afe5-8eff-4091-b9d6-3ac1d1b0c14a)
+![image](https://github.com/user-attachments/assets/d0b8cf39-0cb9-46e7-92df-185e10e1361e)
